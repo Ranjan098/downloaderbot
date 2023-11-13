@@ -30,7 +30,7 @@ from get_video_info import get_video_attributes, get_video_thumb
 
 API_ID = 12606917
 API_HASH = "f25113b8c17dca6fa7abda53a86bd4f7"
-BOT_TOKEN = "6705040975:AAFx02h5nq3FdA7J2Ai3f2567dAc4nvdU9Y"
+BOT_TOKEN = "6705040975:AAER_R1UpXDIa06YWvuzo0LJrTO7KUVW5K4"
 AUTH_USERS = 5318243282
 sudo_users = [5318243282]
 bot = Client(
